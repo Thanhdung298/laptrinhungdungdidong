@@ -10,6 +10,8 @@
         <entry key="app/src/main/res/layout/activity_tuan211_second.xml" value="0.2803442028985507" />
         <entry key="app/src/main/res/layout/activity_tuan22_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_tuan22_second.xml" value="0.157548125633232" />
+        <entry key="app/src/main/res/layout/activity_tuan32_main.xml" value="0.2078125" />
+        <entry key="app/src/main/res/layout/tuan32_listview_item.xml" value="0.20677083333333332" />
       </map>
     </option>
   </component>
